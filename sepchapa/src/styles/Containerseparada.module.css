@@ -1,0 +1,19 @@
+.containerseparada {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: #536878;
+    color: #536878   ;
+    border-width: 5px;
+    border-style: groove;
+    padding: 10px;
+    font-size: 3rem;
+    width: 100%;
+    text-align: center;
+}
+
+.containerseparada h1 {
+    font-weight: 800;
+}

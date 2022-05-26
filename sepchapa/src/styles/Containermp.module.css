@@ -1,0 +1,55 @@
+.containermp {
+    background-color: whitesmoke;
+    width: 98%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-content: space-around;
+    flex-direction: row;
+    font-size: 3rem;
+    text-align: center;
+    border-style: groove;
+    border-color: #854442 ;
+    border-width: 2px;
+    justify-content: center;
+}
+
+.containermp input[type='checkbox'],
+.containermp input[type='button'] {
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 2rem;
+    border-radius: 100%;
+    border-width: 3px;
+    color: chartreuse;
+    border-color: chartreuse;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.containermp input[type='button']:hover {
+   background-color: chartreuse;
+   color: black;
+   border-color: black;
+}
+
+
+.labelmp {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 5px;
+    padding-top: 10px;
+    cursor: pointer;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+

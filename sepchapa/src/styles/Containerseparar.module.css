@@ -1,0 +1,20 @@
+.containerseparar {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: #3385c6 ;
+    color: #3385c6;
+    border-width: 5px;
+    border-style: groove;
+    padding: 10px;
+    font-size: 3.5rem;
+    width: 100%;
+    text-align: center;
+}
+
+.containerseparar h1 {
+    font-weight: 800;
+    font-size: 3rem;
+}

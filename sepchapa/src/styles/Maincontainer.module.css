@@ -1,0 +1,10 @@
+.maincontainer {
+    margin: auto;
+    border-color: chartreuse;
+    border-width: 6px;
+    border-style: groove;
+    width: 60%;
+    height: 100%;
+    padding: 10px;
+    font-size: 3.5rem;
+}
