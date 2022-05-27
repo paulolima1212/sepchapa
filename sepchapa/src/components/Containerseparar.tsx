@@ -7,7 +7,7 @@ interface SepararProps{
 export default function Separar(props: SepararProps){
     return (
         <div className={style.containerseparar}>
-            <h1>MP SEPARAR</h1>
+            <h1>MP À SEPARAR</h1>
             {props.children}
         </div>
     )

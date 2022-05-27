@@ -1,20 +1,22 @@
-.containerseparar {
+.containerurgencias {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    border-color: #3385c6 ;
-    color: #3385c6;
-    border-width: 5px;
+    border-color: #d62d20    ;
+    border-width: 4px;
+    color: #d62d20   ;
+    border-width:5px;
     border-style: groove;
     padding: 10px;
-    font-size: 3rem;
+    font-size: 4.5rem;
+    justify-content: center;
     width: 100%;
     text-align: center;
+    font-weight: 800;
 }
 
-.containerseparar h1 {
+.containerurgencias h1 {
     font-weight: 800;
-    font-size: 2.5rem;
 }
